@@ -1,0 +1,5 @@
+print("Insert a color, a plural noun and a celebrity")
+(color, plural_noun, celebrity) = input(), input(), input()
+print("Roses are " + color)
+print(plural_noun + " are blue")
+print("I love " + celebrity)
